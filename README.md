@@ -1,1 +1,1 @@
-# GIT_INTRO
+Este es el fichero README de git intro.
